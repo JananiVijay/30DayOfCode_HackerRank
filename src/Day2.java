@@ -16,6 +16,6 @@ public class Day2 {
 		
 		totalCost = (int) (meal_cost + tip_percent + tax_percent);
 		
-		System.out.println(totalCost);
+		System.out.println(("The total meal cost is ") + totalCost + (" dollars."));
 	}
 }
